@@ -1,0 +1,115 @@
+.top {
+  background-color: #D6E5FA;
+  padding-top: 10px;
+}
+
+.mid {
+  text-align: center;
+  padding-top: 50px;
+}
+
+.bottom {
+  background-color: #9AD0EC;
+  padding-bottom: 20px;
+  margin-top: 50px;
+}
+
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: 'Arvo', serif;
+  color: #40514E;
+}
+
+.awan-bawah {
+  position: absolute;
+}
+
+.coding {
+  width: 150px;
+}
+
+.editing {
+  width: 150px;
+}
+
+.awan-atas {
+  margin-left: 600px;
+}
+
+.desc {
+  font-size: 2rem;
+}
+
+h1 {
+  font-family: 'Pacifico', cursive;
+  font-size: 60px;
+  margin: 50px auto 0 auto;
+  color: #11999E;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 30px;
+  color: #11999E;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 50px;
+  color: #11999E;
+}
+
+p {
+  font-size: 17px;
+  line-height: 30px;
+}
+
+hr {
+  border-style: dotted;
+  border-width: 8px;
+  color: #54BAB9;
+  border-top: 0px;
+  width: 5%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Poppins', sans-serif;
+  text-decoration: none;
+  padding: 30px;
+}
+a:hover{
+  color: white;
+
+}
+
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: 'Poppins', sans-serif;
+  color: #ffffff;
+  font-size: 15px;
+  background: #0067ab;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
+
+.copy{
+  font-size: 13px;
+  color: #FBF8F1;
+}
+table{
+  width: 50%;
+
+}
